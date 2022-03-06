@@ -1,4 +1,4 @@
-package CategoryAPI.controller;
+package categoryAPI.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

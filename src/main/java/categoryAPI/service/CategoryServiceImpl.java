@@ -1,4 +1,4 @@
-package CategoryAPI.service;
+package categoryAPI.service;
 
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package CategoryAPI.service;
+package categoryAPI.service;
 
 public interface CategoryService {
 }

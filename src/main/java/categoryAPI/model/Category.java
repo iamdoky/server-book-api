@@ -1,4 +1,4 @@
-package CategoryAPI.model;
+package categoryAPI.model;
 
 public class Category {
 }
